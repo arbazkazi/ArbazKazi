@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Arbaz Qazi](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Arbaz%20Qazi&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20UI%2FUX%20Quality%20Specialist&descAlignY=59&descSize=18)
+![Arbaz Kazi](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Arbaz%20Qazi&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20UI%2FUX%20Quality%20Specialist&descAlignY=59&descSize=18)
 
 ### Building digital products where business, design and technology meet.
 
