@@ -48,12 +48,12 @@ My strongest skill is seeing the complete picture: understanding the business go
 
 | Product | What it does | Explore |
 | --- | --- | :---: |
-| **Visitorly** | Unified website analytics, visitor intelligence and marketing insights | [Visit ↗](https://www.visitorly.io) |
+| **Visitorly** | Unified website analytics, visitor intelligence and marketing insights | [Visit ↗](https://) |
 | **EduGenie** | An AI-powered study companion for personalized and interactive learning | [Visit ↗](https://www.theedugenie.com) |
 | **Peeky Eyes** | A playful native macOS menu-bar companion | [Visit ↗](https://www.peekyeyes.app) |
 | **widgetOS** | A home for privacy-focused native macOS widgets and utilities | [Visit ↗](https://www.widgetos.store) |
-| **Inspectra** | Clear, actionable website auditing and quality insights | [Visit ↗](https://inspectra-tan.vercel.app) |
-| **Barreto Bot** | An AI chatbot platform for smarter website conversations | [Visit ↗](https://barreto.bot) |
+| **Inspectra** | Clear, actionable website auditing and quality insights | [Visit ↗](https://) |
+| **Barreto Bot** | An AI chatbot platform for smarter website conversations | [Visit ↗](https://) |
 
 ## Selected open-source work
 
