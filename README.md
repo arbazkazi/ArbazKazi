@@ -25,7 +25,7 @@ With more than seven years of experience, I combine **business development, UI/U
 
 My strongest skill is seeing the complete picture: understanding the business goal, evaluating the user experience, finding quality issues and helping a product communicate its value more effectively.
 
-## What I do
+## What I Do
 
 - **Business Development** — turning opportunities into clear product and service strategies
 - **UI/UX Quality Assurance** — identifying usability problems, visual inconsistencies and experience gaps
@@ -44,7 +44,7 @@ My strongest skill is seeing the complete picture: understanding the business go
 | **[Creative Craft](https://creativecraft.pk)** | CEO | Creative design, brand identity and digital experiences |
 | **Freelance** | UI/UX Quality Specialist & Designer | Product reviews, web design, graphic design, customer experience and business development |
 
-## Products I'm building
+## Products I'm Building
 
 | Product | What it does | Explore |
 | --- | --- | :---: |
@@ -55,7 +55,7 @@ My strongest skill is seeing the complete picture: understanding the business go
 | **Inspectra** | Clear, actionable website auditing and quality insights | [Visit ↗](https://) |
 | **Barreto Bot** | An AI chatbot platform for smarter website conversations | [Visit ↗](https://) |
 
-## Selected creative work
+## Selected Creative Work
 
 - **Snapchat Mass Snap — Pakistan Independence Day** — sticker design for a national campaign
 - **TapTime TV** — in-venue digital advertisements displayed across restaurants and cafés in the DC and Maryland area
@@ -64,9 +64,9 @@ My strongest skill is seeing the complete picture: understanding the business go
 - **Rook Twitch Branding** — visual identity created for a gaming and streaming brand
 - **Cold Canyon Pops Branding** — colorful product and brand-identity design
 
-## My toolkit
+## My Toolkit
 
-### Product, design and marketing
+### Product, Design and Marketing
 
 <div align="center">
 
@@ -86,7 +86,7 @@ My strongest skill is seeing the complete picture: understanding the business go
 
 </div>
 
-### Development and delivery
+### Development and Delivery
 
 <div align="center">
 
@@ -104,7 +104,7 @@ My strongest skill is seeing the complete picture: understanding the business go
 
 </div>
 
-## Experience and background
+## Experience and Background
 
 | Period | Experience |
 | --- | --- |
@@ -118,7 +118,7 @@ My strongest skill is seeing the complete picture: understanding the business go
 - **BTEC Level 5, Business in Marketing** — Pearson UK
 - **O Levels** — Cambridge International Education
 
-## How I approach products
+## How I Approach Products
 
 > **Useful before complicated. Clear before clever. Built to make an impact.**
 
@@ -132,7 +132,7 @@ Good digital products need more than attractive screens or clean code. I connect
 - Leading product, design, development and client strategy at **Ninja Creativity**
 - Collaborating with businesses on UI/UX quality, digital products and growth
 
-## GitHub activity
+## GitHub Activity
 
 <div align="center">
 
