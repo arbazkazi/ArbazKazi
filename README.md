@@ -151,6 +151,6 @@ I'm open to product collaborations, SaaS partnerships, creative projects and sel
 [![Portfolio](https://img.shields.io/badge/View_My-Portfolio-4F46E5?style=for-the-badge&logo=safari&logoColor=white)](https://arbazkazi.me)
 [![Email](https://img.shields.io/badge/Email-hello%40arbazkazi.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@arbazkazi.me)
 
-<sub>Building useful digital experiences with business insight and design-first thinking.</sub>
+<sub>building useful digital experiences with business insight and design-first thinking.</sub>
 
 </div>
