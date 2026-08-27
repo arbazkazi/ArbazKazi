@@ -55,20 +55,6 @@ My strongest skill is seeing the complete picture: understanding the business go
 | **Inspectra** | Clear, actionable website auditing and quality insights | [Visit ↗](https://) |
 | **Barreto Bot** | An AI chatbot platform for smarter website conversations | [Visit ↗](https://) |
 
-## Selected open-source work
-
-### [Ollama Web](https://github.com/ninjacreativity/Ollama_Web)
-
-A modern interface for chatting with locally hosted Ollama models, with streaming responses, model management, conversation history and light/dark themes.
-
-### [Demos](https://github.com/ninjacreativity/Demos)
-
-A growing collection of responsive interfaces, admin dashboards, APIs and practical digital-product experiments.
-
-### [ArbazKaziMe](https://github.com/arbazkazi/ArbazKaziMe)
-
-The source and ongoing development work behind my personal portfolio and professional presence.
-
 ## Selected creative work
 
 - **Snapchat Mass Snap — Pakistan Independence Day** — sticker design for a national campaign
@@ -124,7 +110,7 @@ The source and ongoing development work behind my personal portfolio and profess
 | --- | --- |
 | **2015 — Present** | CEO & Creative Director at **Ninja Creativity** |
 | **2015 — Present** | Freelance UI/UX quality specialist, web designer and graphic designer |
-| **2015** | UI Internship at **Nayatel** |
+| **2015** | Marketing & Communications Intern at **Nayatel** |
 
 ### Education
 
